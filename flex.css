@@ -1,0 +1,35 @@
+body {
+    background: #E8F5F5;
+    font-family: "Inter", sans-serif;
+  }
+  
+  div {
+    font-size: 32px;
+    color: black;
+    border: 2px solid salmon;
+  }
+  
+  .logo {
+    background: pink;
+    color: white;
+    padding: 20px;
+  }
+  
+  .menu {
+    display: flex;
+    flex-direction: row;
+    margin-top: 35px;
+    padding-left: 551px;
+  }
+  
+  .menu-item {
+    margin-right: 129px;
+  }
+  
+  .flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    border: 2px solid salmon;
+  }
